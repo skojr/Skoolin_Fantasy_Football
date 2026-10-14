@@ -1,0 +1,12 @@
+model
+
+# Python environment
+.venv/
+
+# Local datasets
+model/data/raw/
+model/data/processed/
+model/data/features/
+
+# Generated model artifacts
+model/artifacts/
